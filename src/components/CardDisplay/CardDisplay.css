@@ -1,0 +1,12 @@
+.Display-Thumb {
+    max-height: 180px;
+    max-width: 286px;
+}
+
+.Modal-Thing{
+    width: 1px !important;
+    height: 1px !important;
+    --bs-body-bg: #ffffff00 !important;
+    padding: 0px 0px 0px 0px !important;
+
+}
